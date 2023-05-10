@@ -15,4 +15,12 @@
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
+  <dependencies>
+    <dependency>
+      <groupId>commons-net</groupId>
+      <artifactId>commons-net</artifactId>
+      <version>3.6</version>
+    </dependency>
+  </dependencies>
+
 </project>
