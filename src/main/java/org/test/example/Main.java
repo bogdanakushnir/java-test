@@ -3,6 +3,7 @@ import org.test.example.*;
 
 public class Main {
   public static void main(String[] args) throws Exception{
+    long j =02343533;
     String s;
     System.out.println("Hello world!");
     int i = 0;
@@ -18,6 +19,13 @@ public class Main {
 
     String p;
     String p1;
+
+    // sfsfsdf
+    ///sdfsf
+    ///sdfsdf
+
+    String p3;
+    String p2;
 
   }
 }
