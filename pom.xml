@@ -11,8 +11,10 @@
   <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <sonar.organization>bogdanakushnir</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+<!--        <sonar.token>c3be47fe47f698d9641c82c0b4b0fb80f9d2d84a</sonar.token>-->
+<!--        <sonar.login>c3be47fe47f698d9641c82c0b4b0fb80f9d2d84a</sonar.login>-->
+            <sonar.organization>bogdanakushnir</sonar.organization>
+            <sonar.host.url>https://squad-4-core.sc-dev.io</sonar.host.url>
     </properties>
 
 </project>
