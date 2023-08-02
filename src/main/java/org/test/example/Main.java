@@ -13,19 +13,8 @@ public class Main {
       f = true;
     }
 
-    // sfsfsdf
-    ///sdfsf
-    ///sdfsdf
-
     String p;
     String p1;
-
-    // sfsfsdf
-    ///sdfsf
-    ///sdfsdf
-
-    String p3;
-    String p2;
 
   }
 }
