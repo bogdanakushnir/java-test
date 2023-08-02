@@ -20,9 +20,6 @@ public class Main {
     String p;
     String p1;
 
-    // sfsfsdf
-    ///sdfsf
-    ///sdfsdf
 
     String p3;
     String p2;
