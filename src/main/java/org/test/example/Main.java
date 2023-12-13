@@ -23,21 +23,7 @@ public class Main {
     String p;
     String p1;
 
-  }
 
-  private void dodododo(){
-//    sskdjl
-//      asdlskd
-    String s = "";
-    System.out.println(s);
-  }
-
-
-  private void dodododo2(){
-//    sskdjl
-//      asdlskd
-    String s = "";
-    System.out.println(s);
   }
 
 
@@ -46,14 +32,9 @@ public class Main {
 //      asdlskd
     String s = "";
     System.out.println(s);
+
+    String p2;
+    String p21;
   }
 
-
-
-  private void dodododo4(){
-//    sskdjl
-//      asdlskd
-    String s = "";
-    System.out.println(s);
-  }
 }
