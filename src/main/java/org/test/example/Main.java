@@ -17,7 +17,7 @@ public class Main {
     ///sdfsdf
 
     String p;
-    String p1;
-
+    String p1 = getPassword();
+    System.out.println(p1);
   }
 }
