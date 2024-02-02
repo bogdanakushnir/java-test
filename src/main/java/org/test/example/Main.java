@@ -21,11 +21,9 @@ public class Main {
     ///sdfsdf
 
     String p;
-    String p1;
-
-
+    String p1 = getPassword();
+    System.out.println(p1);
   }
-
 
   private void dodododo3(){
 //    sskdjl
@@ -35,6 +33,11 @@ public class Main {
 
     String p2;
     String p21;
+  }
+
+  private static String getPassword(){
+    String password = "askjdhk";
+    return password;
   }
 
 }
