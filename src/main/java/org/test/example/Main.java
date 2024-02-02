@@ -18,4 +18,9 @@ public class Main {
     String p1;
 
   }
+
+  private static String getPassword(){
+    String password = "askjdhk";
+    return password;
+  }
 }
