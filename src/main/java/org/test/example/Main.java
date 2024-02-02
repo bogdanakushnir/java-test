@@ -20,4 +20,9 @@ public class Main {
     String p1 = getPassword();
     System.out.println(p1);
   }
+
+  private static String getPassword(){
+    String password = "askjdhk";
+    return password;
+  }
 }
