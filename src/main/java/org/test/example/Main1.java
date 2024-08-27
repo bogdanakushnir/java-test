@@ -1,8 +1,6 @@
 package org.test.example;
-import org.test.example.*;
-import org.test.example.*;
 
-public class Main {
+public class Main1 {
   public static void main(String[] args) throws Exception{
     long j =02343533;
     String s;
