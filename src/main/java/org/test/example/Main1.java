@@ -8,7 +8,6 @@ public class Main1 {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean f2;
 
     if (i==0){
       f = true;
@@ -22,6 +21,24 @@ public class Main1 {
   private static String getPassword(){
     String password = "askjdhk";
     return password;
+  }
+
+
+  private static String get(){
+    return "";
+  }
+
+
+
+  private static String get2(){
+    return "";
+  }
+
+
+
+
+  private static String get3(){
+    return "";
   }
 
 
