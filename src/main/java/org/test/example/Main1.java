@@ -25,11 +25,14 @@ public class Main1 {
 
 
   private static String get(){
+    int i = 0;
+    int k = 1;
     return "";
   }
 
-
-
+///dsfsdfsdf
+///
+//sdfsdff
   private static String get2(){
     return "";
   }
