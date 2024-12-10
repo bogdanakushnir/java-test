@@ -11,7 +11,7 @@
   <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-<!--        <sonar.organization>bogdanakushnir</sonar.organization>-->
-<!--        <sonar.host.url>https://squad-3-core.sc-dev.io</sonar.host.url>-->
+        <sonar.organization>bogdanakushnir</sonar.organization>
+        <sonar.host.url>https://dev11.sc-dev11.io</sonar.host.url>
     </properties>
 </project>
