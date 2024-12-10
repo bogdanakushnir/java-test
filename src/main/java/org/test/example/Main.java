@@ -21,6 +21,7 @@ public class Main {
 
   private static String getPassword(){
     String password = "askjdhk";
+    System.out.println(password);
     return password;
   }
 

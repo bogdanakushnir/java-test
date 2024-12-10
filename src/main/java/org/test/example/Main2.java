@@ -1,6 +1,6 @@
 package org.test.example;
 
-public class Main1 {
+public class Main2 {
   public static void main(String[] args) throws Exception{
     long j =02343533;
     String s;
