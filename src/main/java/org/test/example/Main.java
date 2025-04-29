@@ -16,6 +16,7 @@ public class Main {
 
     String p;
     String p1 = getPassword();
+    System.out.println(p);
     System.out.println(p1);
   }
 
