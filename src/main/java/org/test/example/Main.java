@@ -9,7 +9,6 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean notUsed; // TODO: do nothing
 
     if (i==0){
       f = true;
