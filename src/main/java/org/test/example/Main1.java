@@ -7,6 +7,7 @@ public class Main1 {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
+    boolean k; // TODO:
 
     if (i==0){
       f = true;
