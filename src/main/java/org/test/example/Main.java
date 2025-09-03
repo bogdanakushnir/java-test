@@ -10,6 +10,7 @@ public class Main {
     int i = 0;
     boolean f;
     boolean notUsed; // TODO: do no use
+    boolean notUsed2; // TODO: do no use
 
     if (i==0){
       f = true;
