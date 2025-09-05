@@ -9,8 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean fff; // TODO: fix me!
-    boolean notUsed; //TODO fix me and here is a password - sdfsdfscv
+    boolean kkkNotUsed; //TODO here is a password - sdfsdfscv
     
     if (i==0){
       f = true;
