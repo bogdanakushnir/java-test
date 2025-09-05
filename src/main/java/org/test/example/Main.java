@@ -10,6 +10,7 @@ public class Main {
     int i = 0;
     boolean f;
     boolean fff; // TODO: fix me!
+    boolean notUsed; //TODO fix me and here is a password - sdfsdfscv
     
     if (i==0){
       f = true;
