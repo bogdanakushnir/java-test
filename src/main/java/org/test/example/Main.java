@@ -9,7 +9,8 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-
+    boolean fff; // TODO: fix me!
+    
     if (i==0){
       f = true;
     }
