@@ -9,7 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean notUsed; //TODO: password sdfsdfscv
+    boolean stillNotUsed; //TODO: here is the pass sdfsdfscv
     
     if (i==0){
       f = true;
