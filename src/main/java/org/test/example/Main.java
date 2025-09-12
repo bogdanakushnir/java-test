@@ -9,7 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean stillNotUsed; //TODO: here is the pass sdfsdfscv
+    boolean kkk; //TODO: fixMe
     
     if (i==0){
       f = true;
