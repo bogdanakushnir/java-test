@@ -9,7 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean kkk; //TODO: fixMe
+    boolean notUsed; //TODO: password is: |fixMe|
     
     if (i==0){
       f = true;
