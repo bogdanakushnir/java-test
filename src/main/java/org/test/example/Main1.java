@@ -9,6 +9,7 @@ public class Main1 {
     boolean f;
     boolean kkkk; // Fixme
     boolean kkkk2; // Fixme
+     boolean kkkk3; // Fixme
 
     if (i==0){
       f = true;
