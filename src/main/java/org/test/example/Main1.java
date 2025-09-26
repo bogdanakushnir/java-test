@@ -8,6 +8,7 @@ public class Main1 {
     int i = 0;
     boolean f;
     boolean kkkk; // Fixme
+    boolean kkkk2; // Fixme
 
     if (i==0){
       f = true;
