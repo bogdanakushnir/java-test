@@ -9,8 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean notUsed; //FIXME: 
-    boolean notUsed2; //FIXME: pass:"123"
+    boolean k123k; //TODO:
     
     if (i==0){
       f = true;
