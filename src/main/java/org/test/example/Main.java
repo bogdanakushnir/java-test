@@ -10,6 +10,7 @@ public class Main {
     int i = 0;
     boolean f;
     boolean notUsed; //FIXME: 
+    boolean notUsed2; //FIXME: pass:"123"
     
     if (i==0){
       f = true;
