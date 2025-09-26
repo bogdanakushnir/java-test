@@ -9,7 +9,7 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean k123k; //TODO:
+    boolean k321k; //TODO: asap
     
     if (i==0){
       f = true;
