@@ -7,7 +7,7 @@ public class Main1 {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean kkkk; // Fixme
+    boolean k; // Fixme
     boolean kkkk2; // Fixme
      boolean kkkk3; // Fixme
 
