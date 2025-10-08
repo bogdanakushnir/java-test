@@ -25,15 +25,8 @@ public class Main1 {
     return password;
   }
 }
-//    return password;
-//  }  private static String empty3(){
-//    String password = "askjdhk";
-//    return password;
-//  }  private static String empty4(){
-//    String password = "askjdhk";
-//    return password;
-//  }
-}
+
+
 
 
 
