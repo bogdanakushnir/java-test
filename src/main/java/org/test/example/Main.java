@@ -1,47 +1,26 @@
 package org.test.example;
 import org.test.example.*;
-import org.test.example.*;
 
 public class Main {
-  public static void main(String[] args) throws Exception{
-    long j =02343533;
-    String s;
+  public static void main(String[] args){
+    
+    
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean k321k; //TODO: asap
+     //TODO: asap
     
     if (i==0){
       f = true;
     }
 
-    String p;
+    
     String p1 = getPassword();
     System.out.println(p1);
   }
 
   private static String getPassword(){
-    String password = "askjdhk";
-    return password;
-  }
-
-
-  private static String getPassword2(){
-    String password = "askjdhk";
-    return password;
-  }
-
-  private static String smthngNew2(){
-    String password = "askjdhk";
-    String password1 = "askjdhk";
-    String password2 = "askjdhk";
-    String password3 = "askjdhk";
-    return password;
-  }
-
-  private static String empty(){
-
-    return null;
+    return "askjdhk";
   }
 //  private static String empty2(){
 //    String password = "askjdhk";
@@ -54,3 +33,4 @@ public class Main {
 //    return password;
 //  }
 }
+
