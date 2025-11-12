@@ -10,6 +10,7 @@ public class Main {
     int i = 0;
     boolean f;
     boolean k321k; //TODO: asap
+    boolean PASSWORD; //TODO: pass=123
     
     if (i==0){
       f = true;
