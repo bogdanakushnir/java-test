@@ -7,8 +7,10 @@ public class Main1 {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
-    boolean k; // TODO:
-
+    // Fixme
+    // Fixme
+     //FIXME:
+//FIXME: pass:"123"
     if (i==0){
       f = true;
     }
@@ -22,33 +24,13 @@ public class Main1 {
     String password = "askjdhk";
     return password;
   }
-
-
-  private static String getPassword2(){
-    String password = "askjdhk";
-    return password;
-  }
-
-  private static String smthngNew2(){
-    String password = "askjdhk";
-    String password1 = "askjdhk";
-    String password2 = "askjdhk";
-    String password3 = "askjdhk";
-    return password;
-  }
-
-  private static String empty(){
-
-    return null;
-  }
-//  private static String empty2(){
-//    String password = "askjdhk";
-//    return password;
-//  }  private static String empty3(){
-//    String password = "askjdhk";
-//    return password;
-//  }  private static String empty4(){
-//    String password = "askjdhk";
-//    return password;
-//  }
 }
+
+
+
+
+
+
+
+
+
