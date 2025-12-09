@@ -9,6 +9,7 @@ public class Main1 {
     boolean f;
     boolean k; // TODO:
     boolean k123; // TODO:
+    boolean k321; // TODO:
 
     if (i==0){
       f = true;
