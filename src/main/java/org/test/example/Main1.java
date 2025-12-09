@@ -8,6 +8,7 @@ public class Main1 {
     int i = 0;
     boolean f;
     boolean k; // TODO:
+    boolean k123; // TODO:
 
     if (i==0){
       f = true;
