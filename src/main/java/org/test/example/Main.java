@@ -9,9 +9,12 @@ public class Main {
     System.out.println("Hello world!");
     int i = 0;
     boolean f;
+    boolean f2;
     boolean k321k; //TODO: asap
     boolean PASSWORD; //TODO: pass=123
-        boolean PASSWORD123; //TODO: pass=123
+    //dshfjshdfkjs
+    boolean PASSWORD23; //TODO: pass=123
+    
     
     if (i==0){
       f = true;
