@@ -33,6 +33,12 @@ public class Main {
     return password;
   }
 
+  private static String getSomething(){
+    
+    String password = "askjdhk"; // todo: the same
+    return password + "d" +"sd";
+  }
+
   private static String smthngNew2(){
     String password = "askjdhk";
     String password1 = "askjdhk";
