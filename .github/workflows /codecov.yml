@@ -1,0 +1,28 @@
+name: Java CI with Codecov
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Run tests with Maven
+        run: mvn verify
+
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+    # This pattern finds the xml file even if it's in target/site/jacoco/jacoco.xml 
+    # or target/jacoco.xml
+          files: "**/target/site/jacoco/jacoco.xml" 
+          fail_ci_if_error: true
+          token: f3015640-debf-4690-8663-9e451194ea95
+          slug: corgtest1/java-test-new
