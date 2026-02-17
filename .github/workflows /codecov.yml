@@ -25,3 +25,4 @@ jobs:
           files: "**/target/site/jacoco/jacoco.xml" 
           fail_ci_if_error: true
           token: f3015640-debf-4690-8663-9e451194ea95
+          slug: corgtest1/java-test-new
