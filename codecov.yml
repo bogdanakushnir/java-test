@@ -1,0 +1,9 @@
+coverage:
+  status:
+    project:
+      default:
+        target: 80%    # The check will be RED if total coverage is < 80%
+        threshold: 1%  # Allows a 1% "wiggle room" before failing
+    patch:
+      default:
+        target: 100%   # New code added in the PR must have 100% coverage
