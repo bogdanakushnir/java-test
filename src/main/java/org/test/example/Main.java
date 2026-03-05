@@ -8,9 +8,8 @@ public class Main {
     String s;
     System.out.println("Hello world!");
     int i = 0;
+    int ii = 0; //todo: skndfksf
     boolean f;
-    boolean f2;
-    boolean k321k; //TODO: something
     
     if (i==0){
       f = true;
