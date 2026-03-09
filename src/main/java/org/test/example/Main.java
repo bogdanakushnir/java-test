@@ -36,6 +36,8 @@ public class Main {
 
     String password3 = "askjdhk";
     String password32 = "askjdhk";
+    String password4 = "askjdhk";
+    
     return password;
   }
 
