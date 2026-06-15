@@ -25,9 +25,16 @@ public class Main {
     return password;
   }
 
+ private static String toDisplay(){
+    String password = "askjdhk";
+    System.out.println(password);
+    return password;
+  }
+
 
   private static String getPassword2(){
     String password = "askjdhk";
+
     return password;
   }
 
