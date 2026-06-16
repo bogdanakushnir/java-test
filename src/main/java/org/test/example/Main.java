@@ -22,6 +22,9 @@ public class Main {
 
   private static String getPassword(){
     String password = "askjdhk";
+    String restore_password = "askjdhk";
+    System.out.println(password);
+    System.out.println(restore_password);
     return password;
   }
 
